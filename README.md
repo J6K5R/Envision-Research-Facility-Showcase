@@ -30,3 +30,5 @@ The project was developed as an independent game and is planned to be used as my
 - 3D environment creation
 
 ## Screenshots
+![Screenshots](Screenshots/Car.png)
+![Screenshots](Screenshots/Outdoor.png)
